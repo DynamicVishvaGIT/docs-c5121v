@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-6jvjqq.pulaucuansite.com/sitemap.xml
